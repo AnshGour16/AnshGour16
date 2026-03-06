@@ -58,7 +58,7 @@ Whether it's designing highly aesthetic frontend interfaces or architecting secu
 
 <p align="center">
   <a href="https://github.com/AnshGour16">
-    <img src="https://github-readme-stats.vercel.app/api?username=AnshGour16&show_icons=true&theme=tokyonight&hide_border=true" alt="Ansh's GitHub Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnshGour16&show_icons=true&theme=tokyonight&hide_border=true" alt="Ansh's GitHub Stats" />
   </a>
   <br/><br/>
   <a href="https://github.com/AnshGour16">
