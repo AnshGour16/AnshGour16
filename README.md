@@ -18,24 +18,25 @@
 Whether it's designing highly aesthetic frontend interfaces or architecting secure and scalable backends, I bring dedication and a problem-solving mindset to every challenge.
 
 - 🔭 I’m currently working on building full-stack web applications using Next.js and the MERN stack.
-- 🌱 I’m constantly sharpening my core fundamentals in **Data Structures & Algorithms (C++/Java)**.
+- 🌱 I’m constantly sharpening my problem-solving skills and deeply exploring CS Fundamentals.
 - ⚡ Fun fact: I love experimenting with AI integrations like the Gemini API!
 
 ---
 
 ### 🧠 Tech Stack & Skills
 
-- **💻 Programming Languages:** C++, Java, JavaScript | **Core:** Data Structures & Algorithms
+- **💻 Programming Languages:** C++, Java, JavaScript
+- **📚 CS Fundamentals:** Data Structures & Algorithms (DSA), Database Management Systems (DBMS), Operating Systems (OS), Computer Networks (CN)
 - **🎨 Frontend:** HTML, CSS, React (Vite), Tailwind CSS
 - **⚙️ Backend:** Node.js, Express.js
 - **🗄️ Databases:** MongoDB, SQL
-- **🛠️ Tools & Libraries:** Git, GitHub, Axios, Mongoose, JWT, bcryptjs
+- **🛠️ Tools & Environments:** Git, GitHub, Linux, Axios, Mongoose, JWT, bcryptjs
 - **🚀 Frameworks & Platforms:** Next.js, NextAuth.js, Vercel, Render
 - **💡 Additional Exposure:** Google Generative AI (Gemini API), PDF Processing (pdf2json, jspdf)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,react,tailwind,nextjs,nodejs,express,mongodb,mysql,git,github,vercel" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,js,linux,html,css,react,tailwind,nextjs,nodejs,express,mongodb,mysql,git,github" />
   </a>
 </p>
 
@@ -43,21 +44,28 @@ Whether it's designing highly aesthetic frontend interfaces or architecting secu
 
 ### 💻 Featured Projects
 
-| 🚀 Project | 🔗 Link | 🧩 Description |
+| 🚀 Project | 🔗 Links | 🧩 Description |
 |-------------|----------|----------------|
-| **Hackathon ATS** | [Repo](https://github.com/AnshGour16/Hackathon-ATS) | Built using Next.js, integrating Gemini API and PDF parsing (pdf2json/jspdf) for a smart ATS workflow. |
-| **Nexus** | [Repo](https://github.com/AnshGour16/Nexus) | A modern, scalable web platform designed with a dynamic UI and a robust backend. |
-| **Contact Live** | [Repo](https://github.com/AnshGour16/Contact-Live) | A seamless contact management system featuring secure authentication and Mongoose database design. |
+| **Hackathon ATS** | [Live](https://hackathon-ats.vercel.app/) \| [Repo](https://github.com/AnshGour16/Hackathon-ATS) | Built using Next.js, integrating Gemini API and PDF parsing (pdf2json/jspdf) for a smart AI-powered ATS workflow. |
+| **Nexus Contact Management** | [Live](https://nexus-contact-managemnt-system.vercel.app/) \| [Repo](https://github.com/AnshGour16/Nexus) | A modern, scalable contact management platform designed with a dynamic UI and a robust MongoDB backend. |
+| **Drycleaner Service App** | [Repo](https://github.com/AnshGour16/drycleaner) | A streamlined application built to handle and manage dry-cleaning service requests. |
+| **Swift Delivery/App** | [Repo](https://github.com/AnshGour16/swift) | A fast, responsive application showcasing smooth state management and user workflows. |
+| **Web Development Practice** | [Repo](https://github.com/AnshGour16/webd-practice) | A compilation of micro-projects and web development concepts I've built while mastering frontend and backend tech. |
 
-*(Note: Check that the links directly match your repositories, you can also edit the descriptions if you want to add more detail!)*
+*(Note: Check the links for Drycleaner, Swift, and WebD Practice to make sure the repository names at the end of the URLs exactly match your GitHub!)*
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnshGour16&show_icons=true&theme=tokyonight" alt="Ansh's GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshGour16&theme=tokyonight" alt="Ansh's GitHub Streak" width="48%">
+  <a href="https://github.com/AnshGour16">
+    <img src="https://github-readme-stats.vercel.app/api?username=AnshGour16&show_icons=true&theme=tokyonight&hide_border=true" alt="Ansh's GitHub Stats" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/AnshGour16">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshGour16&theme=tokyonight&hide_border=true" alt="Ansh's GitHub Streak" />
+  </a>
 </p>
 
 ---
@@ -68,10 +76,10 @@ Whether it's designing highly aesthetic frontend interfaces or architecting secu
   <a href="https://github.com/AnshGour16">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/ansh-gour/">
+  <a href="https://www.linkedin.com/in/ansh-gour-03a941306/?skipRedirect=true">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your_email@gmail.com">
+  <a href="mailto:anshgour529@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
