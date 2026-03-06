@@ -48,11 +48,9 @@ Whether it's designing highly aesthetic frontend interfaces or architecting secu
 |-------------|----------|----------------|
 | **Hackathon ATS** | [Live](https://hackathon-ats.vercel.app/) \| [Repo](https://github.com/AnshGour16/Hackathon-ATS) | Built using Next.js, integrating Gemini API and PDF parsing (pdf2json/jspdf) for a smart AI-powered ATS workflow. |
 | **Nexus Contact Management** | [Live](https://nexus-contact-managemnt-system.vercel.app/) \| [Repo](https://github.com/AnshGour16/Nexus) | A modern, scalable contact management platform designed with a dynamic UI and a robust MongoDB backend. |
-| **Drycleaner Service App** | [Repo](https://github.com/AnshGour16/drycleaner) | A streamlined application built to handle and manage dry-cleaning service requests. |
+| **Drycleaner Service App** | [Live](https://drycleaner-website.vercel.app/) \| [Repo](https://github.com/AnshGour16/drycleaner) | A streamlined application built to handle and manage dry-cleaning service requests. |
 | **Swift Delivery/App** | [Repo](https://github.com/AnshGour16/swift) | A fast, responsive application showcasing smooth state management and user workflows. |
 | **Web Development Practice** | [Repo](https://github.com/AnshGour16/webd-practice) | A compilation of micro-projects and web development concepts I've built while mastering frontend and backend tech. |
-
-*(Note: Check the links for Drycleaner, Swift, and WebD Practice to make sure the repository names at the end of the URLs exactly match your GitHub!)*
 
 ---
 
